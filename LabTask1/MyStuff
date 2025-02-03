@@ -1,0 +1,6 @@
+User ID: 1000
+Primary Group ID: 1000
+All Groups: yn adm dialout cdrom floppy sudo audio dip video plugdev users netdev
+Shell: /bin/bash
+Home Directory: /home/yn
+PATH: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files/WindowsApps/MicrosoftCorporationII.WindowsSubsystemForLinux_2.3.26.0_x64__8wekyb3d8bbwe:/mnt/c/windows/system32:/mnt/c/windows:/mnt/c/windows/System32/Wbem:/mnt/c/windows/System32/WindowsPowerShell/v1.0/:/mnt/c/windows/System32/OpenSSH/:/mnt/c/Program Files/Git/cmd:/mnt/c/apache-maven-3.9.6/bin:/mnt/c/Users/yunin/.jdks/openjdk-21.0.2/bin:/mnt/c/Program Files/MySQL/MySQL Shell 8.0/bin/:/mnt/c/Users/yunin/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/yunin/IntelliJ IDEA Community Edition 2023.3.3/bin:/mnt/c/Users/yunin/AppData/Local/GitHubDesktop/bin:/mnt/c/Users/yunin/New folder/IntelliJ IDEA 2024.1.3/bin:/mnt/c/Users/yunin/AppData/Local/Programs/Microsoft VS Code/bin:/snap/bin
